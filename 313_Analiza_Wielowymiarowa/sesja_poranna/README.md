@@ -2,6 +2,11 @@
 
 [Marcin K. Dyderski, Instytut Dendrologii Polskiej Akademii Nauk]()
 
+#Update: pliki do pobrania:
+
+pliki do pobrania dla uczestników warsztatów znajdują się pod adresem https://github.com/mkdyderski/whyR_ordination
+
+
 ## Opis warsztatu 
 
 Warsztaty zakładają wprowadzenie do technik ordynacji - uporządkowania punktów w przestrzeni cech i redukcji wielowymiarowości do postaci zdatnej do wyrażenia za pomocą prostego wykresu. Ordynacja może być sama w sobie metodą do wykazania pewnych prawidłowości, może też jednak stanowić źródło do wyszukiwania zależności, które chcemy/musimy przedstawić później w bardziej wysublimowany sposób.
